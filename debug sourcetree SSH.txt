@@ -1,0 +1,7 @@
+"C:\Users\yivgeni.NEXUS\AppData\Local\SourceTree\app-3.4.15\tools\putty\plink.exe" bitbucket.org
+"C:\Users\yivgeni.NEXUS\AppData\Local\SourceTree\app-3.4.15\tools\putty\plink.exe" github.com
+
+
+https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/
+https://community.atlassian.com/t5/Sourcetree-questions/SourceTree-error-The-server-s-host-key-is-not-cached-in-the/qaq-p/1410001
+
